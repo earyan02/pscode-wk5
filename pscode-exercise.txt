@@ -48,7 +48,7 @@ if (num4>max)
 	max=num4
 if (num5>max)
 	max=num5
-Print "max"
+Print "the largest number is max"
 
 if (num1>num2)
 	set min to=num2
@@ -60,6 +60,6 @@ if (num4<min)
 	min=num4
 if (num5<min)
 	min=num5
-print "min"
+print "The smallest number is min"
 
 -- END --
